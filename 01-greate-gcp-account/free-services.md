@@ -1,3 +1,3 @@
--compute engine (1e2-micro instance per month)
--cloud storage (5 GB standard)
--google kubernetes engine (one autopilot or zonal cluster)
+- compute engine (1e2-micro instance per month)
+- cloud storage (5 GB standard)
+- google kubernetes engine (one autopilot or zonal cluster)
