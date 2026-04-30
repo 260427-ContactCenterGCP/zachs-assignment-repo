@@ -1,0 +1,159 @@
+Text: WASHINGTON, April 30 (Reuters) - The Voting Rights Act of 1965 has often been called the crown jewel of the U.S. civil rights movement. But under a U.S. Supreme Court led for two decades by conservative Chief Justice John Roberts, experts said, that jewel has lost its luster.
+In a 6-3 ​ruling on Wednesday powered by its conservative justices, the court gutted what scholars said was the last remaining pillar of the landmark law enacted after the "Bloody Sunday" march in Selma, Alabama with the aim of ‌preventing racial discrimination in voting.
+Sentiment: -0.30000001192092896, Magnitude: 1.100000023841858
+Reuters is a ORGANIZATION
+Voting Rights Act of 1965 is a WORK_OF_ART
+WASHINGTON is a LOCATION
+jewel is a OTHER
+crown jewel is a ORGANIZATION
+civil rights movement is a OTHER
+John Roberts is a PERSON
+court is a ORGANIZATION
+U.S. is a LOCATION
+luster is a OTHER
+experts is a PERSON
+ruling is a OTHER
+landmark law is a OTHER
+march is a OTHER
+U.S. Supreme Court is a ORGANIZATION
+voting is a OTHER
+discrimination is a OTHER
+aim is a OTHER
+Bloody Sunday is a WORK_OF_ART
+justices is a OTHER
+pillar is a OTHER
+Alabama is a LOCATION
+Selma is a LOCATION
+scholars is a PERSON
+April 30 is a DATE
+1965 is a DATE
+1965 is a NUMBER
+30 is a NUMBER
+6 is a NUMBER
+two is a NUMBER
+3 is a NUMBER
+
+
+Text: Roshar is a world of stone and storms. Uncanny tempests of incredible power sweep across the rocky terrain so frequently that they have shaped ecology and civilization alike. Animals hide in shells, trees pull in branches, and grass retracts into the soilless ground. Cities are built only where the topography offers shelter.
+
+It has been centuries since the fall of the ten consecrated orders known as the Knights Radiant, but their Shardblades and Shardplate remain: mystical swords and suits of armor that transform ordinary men into near-invincible warriors. Men trade kingdoms for Shardblades. Wars were fought for them, and won by them.
+
+One such war rages on a ruined landscape called the Shattered Plains. There, Kaladin, who traded his medical apprenticeship for a spear to protect his little brother, has been reduced to slavery. In a war that makes no sense, where ten armies fight separately against a single foe, he struggles to save his men and to fathom the leaders who consider them expendable.
+
+Brightlord Dalinar Kholin commands one of those other armies. Like his brother, the late king, he is fascinated by an ancient text called The Way of Kings. Troubled by over-powering visions of ancient times and the Knights Radiant, he has begun to doubt his own sanity.
+
+Across the ocean, an untried young woman named Shallan seeks to train under an eminent scholar and notorious heretic, Dalinar's niece, Jasnah. Though she genuinely loves learning, Shallan's motives are less than pure. As she plans a daring theft, her research for Jasnah hints at secrets of the Knights Radiant and the true cause of the war.
+
+The result of over ten years of planning, writing, and world-building, The Way of Kings is but the opening movement of the Stormlight Archive, a bold masterpiece in the making.
+Sentiment: 0.0, Magnitude: 6.099999904632568
+world is a LOCATION
+Shallan is a PERSON
+Brightlord Dalinar Kholin is a PERSON
+tempests is a OTHER
+storms is a EVENT
+stone is a OTHER
+Kaladin is a PERSON
+Roshar is a OTHER
+swords is a OTHER
+shells is a OTHER
+leaders is a PERSON
+power sweep is a OTHER
+terrain is a OTHER
+ecology is a OTHER
+civilization is a OTHER
+Animals is a OTHER
+branches is a OTHER
+grass is a OTHER
+trees is a OTHER
+war is a EVENT
+topography is a OTHER
+sense is a OTHER
+shelter is a LOCATION
+ground is a OTHER
+Cities is a LOCATION
+orders is a OTHER
+fall is a EVENT
+Shardblades is a PERSON
+men is a PERSON
+king is a PERSON
+men is a PERSON
+armies is a ORGANIZATION
+Men trade kingdoms is a OTHER
+The Way of Kings is a WORK_OF_ART
+Knights Radiant is a ORGANIZATION
+Shardplate is a OTHER
+Stormlight Archive is a WORK_OF_ART
+armies is a ORGANIZATION
+one is a OTHER
+brother is a PERSON
+apprenticeship is a OTHER
+spear is a OTHER
+slavery is a OTHER
+foe is a OTHER
+armor is a OTHER
+suits is a OTHER
+warriors is a OTHER
+Wars is a OTHER
+war rages is a OTHER
+landscape is a OTHER
+text is a OTHER
+brother is a PERSON
+Shardblades is a OTHER
+learning is a OTHER
+niece is a PERSON
+heretic is a OTHER
+research is a OTHER
+secrets is a OTHER
+hints is a OTHER
+theft is a OTHER
+Shattered Plains is a LOCATION
+motives is a OTHER
+war is a EVENT
+result is a OTHER
+cause is a OTHER
+world-building is a LOCATION
+making is a EVENT
+movement is a OTHER
+planning is a OTHER
+writing is a OTHER
+Jasnah is a OTHER
+sanity is a OTHER
+visions is a OTHER
+times is a OTHER
+ocean is a LOCATION
+scholar is a PERSON
+woman is a PERSON
+ten is a NUMBER
+ten is a NUMBER
+ten is a NUMBER
+One is a NUMBER
+one is a NUMBER
+
+
+Text: While Kingdom Come: Deliverance 2 still stumbles in some aspects of its portrayal of 15th-century Bohemia, the shadow that lingered over the first game has mostly dissipated. This is a massively improved sequel in every other area, with better combat, quest design, and none of the technical issues that plagued the original. Not everyone will vibe with its slow-paced and oftentimes tedious approach, but those willing to meet it on its own terms will find a compelling open-world RPG that relishes in player agency and the consequences of your actions.
+Sentiment: 0.4000000059604645, Magnitude: 1.399999976158142
+Kingdom Come: Deliverance 2 is a WORK_OF_ART
+aspects is a OTHER
+portrayal is a OTHER
+shadow is a OTHER
+sequel is a WORK_OF_ART
+issues is a OTHER
+RPG is a OTHER
+game is a EVENT
+vibe is a OTHER
+Bohemia is a LOCATION
+area is a LOCATION
+combat is a EVENT
+quest design is a OTHER
+none is a OTHER
+original is a WORK_OF_ART
+everyone is a PERSON
+terms is a OTHER
+player agency is a ORGANIZATION
+consequences is a OTHER
+actions is a OTHER
+approach is a OTHER
+15 is a NUMBER
+2 is a NUMBER
+Categorized as /Games/Roleplaying Games with confidence level of 0.6600000262260437
+Categorized as /Games/Computer & Video Games with confidence level of 0.5899999737739563

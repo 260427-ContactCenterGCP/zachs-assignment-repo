@@ -1,0 +1,12 @@
+<speak><prosody rate="fast"> I noticed that the lock was covered in  a layer of dirt so I decided to clean it off for you.</prosody>
+
+<voice name="Charon"><emphasis level="moderate">You wanted to clean a stranger's lock?</emphasis></voice>
+
+That's right. I was a blacksmith, and if there's any job I hate  then it's fixing clogged up locks.
+
+<voice name="Charon">Hm... And what were you cleaning it with? A lockpick?</voice>
+
+That's not a lockpick. It's a special lock cleaning tool. <break time="250ms"/>
+
+<voice name="Charon"><prosody rate="slow" pitch="-2st">It looks like a lockpick to me.</prosody></voice>
+</speak>

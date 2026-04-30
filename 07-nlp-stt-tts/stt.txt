@@ -1,0 +1,5 @@
+Transcript: this is my testing of Google speech to text I was working the wrong file types of four hopefully it should work now
+Confidence: 0.93
+
+Transcript: it says me testing Google speech to text again but this time tapping the microphone a bunch to really mess up the audio and see how confident it is
+Confidence: 0.92
